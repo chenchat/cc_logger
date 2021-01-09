@@ -1,8 +1,8 @@
 name: cc_logger
-description: A new Flutter package project.
+description: useful logger for flutter.
 version: 0.0.1
-author:
-homepage:
+author: chenhaitao
+homepage: https://github.com/chenchat/cc_logger
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
